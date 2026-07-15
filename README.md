@@ -16,7 +16,7 @@ Tiểu luận này tập trung nghiên cứu và xây dựng một **quy trình 
 *   **Ngành đào tạo:** An toàn thông tin
 *   **Học phần:** Bảo mật trong IoT
 *   **Đơn vị đào tạo:** Trường Đại học Văn Hiến
-*   **Giảng viên giảng dạy:** Trần Phong Vũ
+*   **Giảng viên giảng dạy:** Hồ Nhựt Minh
 
 ---
 
